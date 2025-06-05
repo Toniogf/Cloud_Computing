@@ -1,0 +1,7 @@
+location             = "France Central"
+resource_group_name  = "rg-dev-n-tier"
+acr_name             = "acrdevnwordpress"
+webapp_name          = "webapp-dev-wp"
+mysql_name           = "mysql-dev-wp"
+mysql_admin          = "adminwp"
+mysql_password       = "SuperSecret123!"
